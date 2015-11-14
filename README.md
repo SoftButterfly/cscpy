@@ -1,1 +1,1 @@
-A python wrapper for Chandra Source Catalog
+# A python wrapper for Chandra Source Catalog
